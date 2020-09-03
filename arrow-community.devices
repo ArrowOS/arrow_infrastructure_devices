@@ -1,4 +1,3 @@
-#
 # Community maintained devices list
 #
 # This will be parsed by our configs platform for initial setup
@@ -19,3 +18,7 @@
 # Example:-
 # - beryllium userdebug sdm845
 #
+#
+- vince userdebug msm8953
+- potter userdebug msm8953
+- X00TD userdebug sdm636
