@@ -1,0 +1,21 @@
+#
+# Community maintained devices list
+#
+# This will be parsed by our configs platform for initial setup
+# and configuration with jenkins.
+#
+# Format:
+# <device codename> <buildtype> <chipset>
+#
+# F.A.Q:
+# <device codename>  -  Official device codename used all over
+#                        the platform.
+#
+# <buildtype>        -  The default stable buildtype.
+#
+# <chipset>          -  Specify your device chipset. This will be used
+#                       to assign the device to its appropriate jenkins node.
+#
+# Example:-
+# - beryllium userdebug sdm845
+#
