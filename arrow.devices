@@ -26,5 +26,9 @@
 # This will put z2_plus on node3 even if we mention msm8996 to be on different node.
 #
 #
+
 - beryllium userdebug sdm845
 - cheeseburger userdebug msm8998
+- raphael userdebug sm8150
+- z2_plus userdebug msm8996
+- z2_row userdebug msm8996
