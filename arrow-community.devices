@@ -15,8 +15,16 @@
 # <chipset>          -  Specify your device chipset. This will be used
 #                       to assign the device to its appropriate jenkins node.
 #
-# Example:-
-# - beryllium userdebug sdm845
+# Explicit declaration for nodes (Just in case)
+# $ - node1
+# @ - node 2
+# ! - node 3
+# ^ - node 4
+#
+# Example:
+# ! z2_plus userdebug msm8996
+# This will put z2_plus on node3 even if we mention msm8996 to be on different node.
+#
 #
 - deen userdebug msm8953
 - vince userdebug msm8953
