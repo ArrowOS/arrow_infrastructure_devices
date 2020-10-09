@@ -20,6 +20,7 @@
 # $ - node1
 # @ - node 2
 # ! - node 3
+# ^ - node 4
 #
 # Example:
 # ! z2_plus userdebug msm8996
@@ -27,15 +28,15 @@
 #
 #
 
-- beryllium userdebug sdm845
-- cheeseburger userdebug msm8998
-- davinci userdebug sm6150
-- enchilada userdebug sdm845
-- land userdebug msm8996
-- oneplus3 userdebug msm8996
-- polaris userdebug sdm845
-- potter userdebug msm8953
-- raphael userdebug sm8150
-- whyred userdebug sdm660
-- z2_plus userdebug msm8996
-- z2_row userdebug msm8996
+! beryllium userdebug sdm845
+^ cheeseburger userdebug msm8998
+! davinci userdebug sm6150
+! enchilada userdebug sdm845
+^ land userdebug msm8996
+^ oneplus3 userdebug msm8996
+! polaris userdebug sdm845
+^ potter userdebug msm8953
+! raphael userdebug sm8150
+! whyred userdebug sdm660
+^ z2_plus userdebug msm8996
+^ z2_row userdebug msm8996
