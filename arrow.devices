@@ -34,6 +34,7 @@
 ! enchilada userdebug sdm845
 ^ land userdebug msm8996
 ^ oneplus3 userdebug msm8996
+! perseus userdebug sdm845
 ! polaris userdebug sdm845
 ^ potter userdebug msm8953
 ! raphael userdebug sm8150
