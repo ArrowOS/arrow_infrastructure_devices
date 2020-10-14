@@ -33,6 +33,7 @@
 ! davinci userdebug sm6150
 ! enchilada userdebug sdm845
 ^ land userdebug msm8996
+! miatoll userdebug sm6250
 ^ oneplus3 userdebug msm8996
 ! perseus userdebug sdm845
 ! polaris userdebug sdm845
