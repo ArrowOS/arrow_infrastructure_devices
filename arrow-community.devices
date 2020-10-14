@@ -25,6 +25,5 @@
 # ! z2_plus userdebug msm8996
 # This will put z2_plus on node3 even if we mention msm8996 to be on different node.
 #
-
 ^ lavender userdebug sdm660
-
+^ jasmine_sprout userdebug sdm660
