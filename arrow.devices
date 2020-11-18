@@ -38,6 +38,7 @@
 ^ mido userdebug msm8953
 ^ oneplus3 userdebug msm8996
 ! perseus userdebug sdm845
+! phoenix userdebug sm6150
 ! polaris userdebug sdm845
 ! raphael userdebug sm8150
 ^ sanders userdebug msm8953
