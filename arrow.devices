@@ -35,7 +35,6 @@ $ clover userdebug sdm660
 @ enchilada userdebug sdm845
 @ ginkgo user sm6125
 - land userdebug msm8937
-@ lmi userdebug sm8250
 @ miatoll userdebug sm6250
 - mido userdebug msm8953
 @ perseus userdebug sdm845
