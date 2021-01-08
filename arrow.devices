@@ -35,6 +35,7 @@
 ! enchilada userdebug sdm845
 ! ginkgo userdebug sm6125
 ^ land userdebug msm8996
+! lmi userdebug sm8250
 ! miatoll userdebug sm6250
 ^ mido userdebug msm8953
 ^ oneplus3 userdebug msm8996
