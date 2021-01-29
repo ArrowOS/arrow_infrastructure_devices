@@ -26,7 +26,6 @@
 # This will put z2_plus on node3 even if we mention msm8996 to be on different node.
 #
 
-! apollopro userdebug sm8250
 ^ chiron userdebug msm8998
 ! cmi userdebug sm8250
 ^ lavender userdebug sdm660
