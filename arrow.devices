@@ -39,6 +39,7 @@
 ^ land userdebug msm8996
 ! lmi userdebug sm8250
 ! miatoll userdebug sm6250
+! monet userdebug sm8250
 ^ mido userdebug msm8953
 ^ oneplus3 userdebug msm8996
 ! perseus userdebug sdm845
