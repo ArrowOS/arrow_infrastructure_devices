@@ -32,4 +32,6 @@
 ^ jasmine_sprout userdebug sdm660
 ^ RMX1801 userdebug sdm660
 ^ rosy userdebug msm8953
+^ starlte userdebug exynos9810
+^ star2lte userdebug exynos9810
 ^ X01AD userdebug sdm632
