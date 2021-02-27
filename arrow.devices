@@ -17,8 +17,6 @@
 #                       to assign the device to its appropriate jenkins node.
 #
 # Explicit declaration for nodes (Just in case)
-# $ - node1
-# @ - node 2
 # ! - node 3
 # ^ - node 4
 #
@@ -28,7 +26,6 @@
 #
 #
 
-! armani userdebug msm8226
 ! beryllium userdebug sdm845
 ^ cheeseburger userdebug msm8998
 ! cmi userdebug sm8250
@@ -40,8 +37,8 @@
 ^ land userdebug msm8996
 ! lmi userdebug sm8250
 ! miatoll userdebug sm6250
-! monet userdebug sm8250
 ^ mido userdebug msm8953
+! monet userdebug sm8250
 ^ oneplus3 userdebug msm8996
 ! perseus userdebug sdm845
 ! phoenix userdebug sm6150
