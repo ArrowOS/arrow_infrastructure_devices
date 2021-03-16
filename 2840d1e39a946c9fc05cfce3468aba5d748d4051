@@ -16,6 +16,24 @@
       "revId": "2840d1e39a946c9fc05cfce3468aba5d748d4051",
       "serverId": "66da7299-18b4-411a-8fa2-12a880778196",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "ecb16d0e_3219b2d6",
+        "filename": "arrow-community.devices",
+        "patchSetId": 4
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 241
+      },
+      "writtenOn": "2021-03-16T14:05:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ba6d3b10_af24a0a2",
+      "revId": "2840d1e39a946c9fc05cfce3468aba5d748d4051",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196",
+      "unresolved": false
     }
   ]
 }
