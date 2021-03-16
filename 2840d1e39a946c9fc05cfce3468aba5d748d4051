@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba6d3b10_af24a0a2",
+        "filename": "arrow-community.devices",
+        "patchSetId": 4
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2021-03-16T13:04:24Z",
+      "side": 1,
+      "message": "userdebug*",
+      "revId": "2840d1e39a946c9fc05cfce3468aba5d748d4051",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196",
+      "unresolved": true
+    }
+  ]
+}
