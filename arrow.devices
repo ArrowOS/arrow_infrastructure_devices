@@ -25,8 +25,9 @@
 # Example:
 # ! z2_plus userdebug msm8996
 # This will put z2_plus on node3 even if we mention msm8996 to be on different node.
-#
-#
+# REMEMBER: <chipset> can be the platform family chipset or exact device chipset as 
+# it is only used for assigning similar devices to a similar nodes and nothing else.
+# 
 
 ! armani userdebug msm8226
 ! beryllium userdebug sdm845
@@ -50,6 +51,7 @@
 ^ sanders userdebug msm8953
 ! surya userdebug sm6150
 ! umi userdebug sm8250
+! vangogh userdebug sm8250
 ! violet userdebug sm6150
 ^ whyred userdebug sdm660
 ^ X00T userdebug sdm660
