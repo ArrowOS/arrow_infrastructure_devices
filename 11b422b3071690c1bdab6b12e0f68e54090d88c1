@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9395ceb7_e2f2d4c4",
+        "filename": "arrow.devices",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 71
+      },
+      "writtenOn": "2021-03-17T13:42:40Z",
+      "side": 1,
+      "message": "Space",
+      "revId": "11b422b3071690c1bdab6b12e0f68e54090d88c1",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "fa7516c5_93bbcf35",
+        "filename": "arrow.devices",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 71
+      },
+      "writtenOn": "2021-03-17T13:42:40Z",
+      "side": 1,
+      "message": "Space",
+      "revId": "11b422b3071690c1bdab6b12e0f68e54090d88c1",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196",
+      "unresolved": true
+    }
+  ]
+}
