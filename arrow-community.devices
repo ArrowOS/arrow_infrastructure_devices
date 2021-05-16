@@ -28,6 +28,7 @@
 
 ! cas userdebug sm8250
 ^ cepheus userdebug sm8150
+^ channel userdebug sdm632
 ^ chiron userdebug msm8998
 ^ daisy userdebug msm8953
 ^ jasmine_sprout userdebug sdm660
