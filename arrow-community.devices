@@ -27,6 +27,7 @@
 #
 
 ! cas userdebug sm8250
+^ kebab userdebug sm8250
 ^ cepheus userdebug sm8150
 ^ chiron userdebug msm8998
 ^ daisy userdebug msm8953
