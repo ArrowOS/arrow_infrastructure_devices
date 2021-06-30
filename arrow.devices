@@ -34,6 +34,7 @@
 ! apollo userdebug sm8250
 ! beryllium userdebug sdm845
 ^ cheeseburger userdebug msm8998
+^ crownlte userdebug exynos9810
 ^ daisy userdebug msm8953
 ! davinci userdebug sm6150
 ^ dumpling userdebug msm8998
