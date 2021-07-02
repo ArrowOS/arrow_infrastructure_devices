@@ -43,6 +43,7 @@
 ^ land userdebug msm8996
 ^ lavender userdebug sdm660
 ! lmi userdebug sm8250
+^ kebab userdebug sm8250
 ! miatoll userdebug sm6250
 ! monet userdebug sm8250
 ^ mido userdebug msm8953
