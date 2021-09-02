@@ -56,6 +56,7 @@
 ! polaris userdebug sdm845
 ^ potter userdebug msm8953
 ! raphael userdebug sm8150
+^ sake userdebug sm8350
 ^ sanders userdebug msm8953
 ! sweet userdebug sm6150
 ! surya userdebug sm6150
