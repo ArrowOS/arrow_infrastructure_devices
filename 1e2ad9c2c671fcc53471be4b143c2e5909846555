@@ -16,6 +16,24 @@
       "revId": "1e2ad9c2c671fcc53471be4b143c2e5909846555",
       "serverId": "66da7299-18b4-411a-8fa2-12a880778196",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "742ef19e_0639b285",
+        "filename": "arrow.devices",
+        "patchSetId": 2
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 258
+      },
+      "writtenOn": "2021-10-05T09:52:48Z",
+      "side": 1,
+      "message": "Sorry idk why here comes one more device, I\u0027ll correct",
+      "parentUuid": "deaffc23_0abf44eb",
+      "revId": "1e2ad9c2c671fcc53471be4b143c2e5909846555",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196",
+      "unresolved": true
     }
   ]
 }
