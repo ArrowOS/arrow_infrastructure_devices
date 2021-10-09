@@ -28,3 +28,5 @@
 # REMEMBER: <chipset> can be the platform family chipset or exact device chipset as
 # it is only used for assigning similar devices to a similar nodes and nothing else.
 #
+
+! vayu userdebug sm8150
