@@ -29,6 +29,7 @@
 # it is only used for assigning similar devices to a similar nodes and nothing else.
 #
 
+! alioth userdebug sm8250
 ! miatoll userdebug sm6250
 ! sweet userdebug sm6150
 ! vayu userdebug sm8150
