@@ -32,6 +32,7 @@
 ! alioth userdebug sm8250
 ^ daisy userdebug msm8953
 ! miatoll userdebug sm6250
+^ mido userdebug msm8953
 ! phoenix userdebug sm6150
 ! picasso userdebug sm7250
 ! surya userdebug sm6150
