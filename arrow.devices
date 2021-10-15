@@ -36,6 +36,7 @@
 ! ginkgo userdebug sm6125
 ^ lavender userdebug sdm660
 ! miatoll userdebug sm6250
+^ mido userdebug msm8953
 ! phoenix userdebug sm6150
 ! picasso userdebug sm7250
 ! raphael userdebug sm8150
