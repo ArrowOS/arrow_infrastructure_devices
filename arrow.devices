@@ -30,6 +30,7 @@
 #
 
 ! alioth userdebug sm8250
+! apollo userdebug sm8250
 ^ daisy userdebug msm8953
 ^ lavender userdebug sdm660
 ! miatoll userdebug sm6250
