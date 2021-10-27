@@ -33,6 +33,7 @@
 ! apollo userdebug sm8250
 ! cas userdebug sm8250
 ^ daisy userdebug msm8953
+! ginkgo userdebug sm6125
 ^ lavender userdebug sdm660
 ! miatoll userdebug sm6250
 ! phoenix userdebug sm6150
