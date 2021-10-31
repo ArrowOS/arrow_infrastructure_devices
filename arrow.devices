@@ -34,6 +34,7 @@
 ! cas userdebug sm8250
 ^ daisy userdebug msm8953
 ! ginkgo userdebug sm6125
+! guacamole userdebug sm8150
 ^ lavender userdebug sdm660
 ! miatoll userdebug sm6250
 ^ mido userdebug msm8953
