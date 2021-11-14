@@ -26,6 +26,7 @@
 # This will put z2_plus on node3 even if we mention msm8996 to be on different node.
 #
 
+^ beryllium userdebug sdm845
 ! cepheus userdebug sm8150
 ^ r5x userdebug sm6150
 ^ tulip userdebug sdm660
