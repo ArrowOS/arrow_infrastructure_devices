@@ -31,7 +31,9 @@
 
 ! alioth userdebug sm8250
 ! apollo userdebug sm8250
+! blueline userdebug sdm845
 ! cas userdebug sm8250
+! crosshatch userdebug sdm845
 ^ daisy userdebug msm8953
 ! ginkgo userdebug sm6125
 ! guacamole userdebug sm8150
