@@ -35,6 +35,7 @@
 ! cas userdebug sm8250
 ! crosshatch userdebug sdm845
 ^ daisy userdebug msm8953
+! gauguin userdebug sm8250
 ! ginkgo userdebug sm6125
 ! guacamole userdebug sm8150
 ^ jasmine_sprout userdebug sdm660
