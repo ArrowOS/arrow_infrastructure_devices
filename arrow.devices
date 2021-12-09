@@ -36,6 +36,7 @@
 ! crosshatch userdebug sdm845
 ^ daisy userdebug msm8953
 ! ginkgo userdebug sm6125
+! gauguin userdebug sm8250
 ! guacamole userdebug sm8150
 ^ jasmine_sprout userdebug sdm660
 ^ lavender userdebug sdm660
