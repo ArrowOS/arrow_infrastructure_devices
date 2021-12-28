@@ -49,6 +49,7 @@
 ! picasso userdebug sm8250
 ! raphael userdebug sm8150
 ^ RMX1801 userdebug sdm660
+^ RMX2020 userdebug mt6768
 ^ starlte userdebug exynos9810
 ^ star2lte userdebug exynos9810
 ! surya userdebug sm6150
