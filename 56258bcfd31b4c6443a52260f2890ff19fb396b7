@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a742a839_3719e854",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 322
+      },
+      "writtenOn": "2021-12-31T08:22:21Z",
+      "side": 1,
+      "message": "Pending for the test result on OnePlus 9R",
+      "revId": "56258bcfd31b4c6443a52260f2890ff19fb396b7",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
