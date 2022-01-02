@@ -16,6 +16,24 @@
       "message": "Pending for the test result on OnePlus 9R",
       "revId": "56258bcfd31b4c6443a52260f2890ff19fb396b7",
       "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a79d6060_83d11325",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2022-01-02T14:28:58Z",
+      "side": 1,
+      "message": "any updates?",
+      "parentUuid": "a742a839_3719e854",
+      "revId": "56258bcfd31b4c6443a52260f2890ff19fb396b7",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
     }
   ]
 }
