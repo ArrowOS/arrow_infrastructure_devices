@@ -36,6 +36,7 @@
 ! crosshatch userdebug sdm845
 ^ crownlte userdebug exynos9810
 ^ daisy userdebug msm8953
+^ G userdebug msm8953
 ! gauguin userdebug sm8250
 ! ginkgo userdebug sm6125
 ! guacamole userdebug sm8150
