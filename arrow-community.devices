@@ -27,7 +27,6 @@
 #
 
 ! cepheus userdebug sm8150
-! davinci userdebug sm6150
 ^ r5x userdebug sm6150
 ! tucana userdebug sm6150
 ^ tulip userdebug sdm660
