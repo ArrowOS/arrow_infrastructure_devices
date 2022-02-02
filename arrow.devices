@@ -27,12 +27,5 @@
 # This will put z2_plus on node3 even if we mention msm8996 to be on different node.
 #
 #
-- A6020 userdebug msm8916
-@ beryllium userdebug sdm845
-$ clover userdebug sdm660
-- marlin userdebug msm8996
-- potter userdebug msm8953
-- sailfish userdebug msm8996
-- sanders userdebug msm8953
-$ z2_plus userdebug msm8996
-$ z2_row userdebug msm8996
+
+# Deprecated version
