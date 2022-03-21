@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2dfeb3c6_bfaa3a57",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 71
+      },
+      "writtenOn": "2022-03-21T09:37:55Z",
+      "side": 1,
+      "message": "We provide for official builds only userdebug, for userdebug buildtype many debug fetures was disable, what need for pass bank and etc apps/services.",
+      "revId": "bff62f36daba144c409e998bc06c92c740b19d35",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
