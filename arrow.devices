@@ -52,7 +52,6 @@
 ^ mido userdebug msm8953
 ! OP4A89 userdebug sm8150
 ! phoenix userdebug sm6150
-! picasso userdebug sm8250
 ! raphael userdebug sm8150
 ^ RMX1801 userdebug sdm660
 ^ RMX2020 userdebug mt6768
