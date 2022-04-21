@@ -39,7 +39,6 @@
 ^ daisy userdebug msm8953
 ! davinci userdebug sm6150
 ^ G userdebug msm8953
-! gauguin userdebug sm8250
 ! ginkgo userdebug sm6125
 ! guacamole userdebug sm8150
 ^ jasmine_sprout userdebug sdm660
