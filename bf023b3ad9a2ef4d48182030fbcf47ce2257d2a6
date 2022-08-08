@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0d38fda6_38abc824",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 527
+      },
+      "writtenOn": "2022-08-08T13:56:07Z",
+      "side": 1,
+      "message": "I want to download an update for my device Poco x3 nfc Syria\n",
+      "revId": "bf023b3ad9a2ef4d48182030fbcf47ce2257d2a6",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
