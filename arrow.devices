@@ -29,5 +29,6 @@
 # it is only used for assigning similar devices to a similar nodes and nothing else.
 #
 
+! davinci userdebug sm6150
 ! vayu userdebug sm8150
 ! veux userdebug sm6375
