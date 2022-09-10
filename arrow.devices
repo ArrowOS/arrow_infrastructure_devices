@@ -29,5 +29,17 @@
 # it is only used for assigning similar devices to a similar nodes and nothing else.
 #
 
+! apollo userdebug sm8250
+! davinci userdebug sm6150
+! ginkgo userdebug sm6125
+! jasmine_sprout userdebug sdm660
+! lemonades userdebug sm8250
+! mojito userdebug sm6150
+! munch userdebug sm8250
+! RMX1801 userdebug sdm660
+! RMX2020 userdebug mt6768
+! tucana userdebug sm6150
 ! vayu userdebug sm8150
 ! veux userdebug sm6375
+! violet userdebug sm6150
+! Z01R userdebug sdm845
