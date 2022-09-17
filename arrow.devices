@@ -29,4 +29,16 @@
 # it is only used for assigning similar devices to a similar nodes and nothing else.
 #
 
-# Deprecated version
+! alioth userdebug sm8250
+! apollo userdebug sm8250
+! beryllium userdebug sdm845
+! ginkgo userdebug sm6125
+! lavender userdebug sdm660
+! mido userdebug msm8953
+! miatoll userdebug sm6250
+! perseus userdebug sdm845
+! polaris userdebug sdm845
+! potter userdebug msm8953
+! raphael userdebug sm8150
+! vayu userdebug sm8150
+! whyred userdebug sdm660
