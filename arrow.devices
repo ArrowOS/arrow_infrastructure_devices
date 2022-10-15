@@ -31,6 +31,7 @@
 
 ! apollo userdebug sm8250
 ! davinci userdebug sm6150
+! gauguin userdebug sm8250
 ! ginkgo userdebug sm6125
 ! jasmine_sprout userdebug sdm660
 ! lemonades userdebug sm8250
@@ -39,6 +40,7 @@
 ! nabu userdebug sm8150
 ! RMX1801 userdebug sdm660
 ! RMX2020 userdebug mt6768
+! thyme userdebug sm8250
 ! tucana userdebug sm6150
 ! vayu userdebug sm8150
 ! veux userdebug sm6375
