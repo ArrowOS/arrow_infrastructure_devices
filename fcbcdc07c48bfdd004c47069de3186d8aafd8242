@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5142a7bb_5499b2fd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2022-10-21T14:16:33Z",
+      "side": 1,
+      "message": "hold till devices trees are at devices org",
+      "revId": "fcbcdc07c48bfdd004c47069de3186d8aafd8242",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
