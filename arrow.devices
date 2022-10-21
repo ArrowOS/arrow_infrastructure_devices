@@ -30,7 +30,9 @@
 #
 
 ! apollo userdebug sm8250
+! coral userdebug sm8150
 ! davinci userdebug sm6150
+! flame userdebug sm8150
 ! G userdebug msm8953
 ! gauguin userdebug sm8250
 ! ginkgo userdebug sm6125
