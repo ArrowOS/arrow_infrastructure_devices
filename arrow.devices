@@ -46,9 +46,13 @@
 ! RMP6768 userdebug mt6768
 ! RMX1801 userdebug sdm660
 ! RMX2020 userdebug mt6768
+<<<<<<< HEAD   (9568d0 devices: bye bye Pixel 4 & XL)
 ! RMX3031 userdebug mt6893
 ! RMX3360 userdebug sm8350
 ! sweet userdebug sm6150
+=======
+! Spacewar userdebug sm8350
+>>>>>>> CHANGE (e4807a devices: Say hello to Nothing Phone (1))
 ! thyme userdebug sm8250
 ! tucana userdebug sm6150
 ! vayu userdebug sm8150
