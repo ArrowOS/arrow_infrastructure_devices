@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6f077622_8e488071",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 88
+      },
+      "writtenOn": "2022-10-25T15:29:39Z",
+      "side": 1,
+      "message": "Hold on Gerrit.",
+      "revId": "e4807aa2e0ac24831dc6922b3b324ccc9e08dfd0",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
