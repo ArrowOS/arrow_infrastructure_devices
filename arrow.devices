@@ -30,8 +30,10 @@
 #
 
 ! apollo userdebug sm8250
+! blueline userdebug sdm845
 ! cas userdebug sm8250
 ! coral userdebug sm8150
+! crosshatch userdebug sdm845
 ! davinci userdebug sm6150
 ! flame userdebug sm8150
 ! G userdebug msm8953
