@@ -26,4 +26,5 @@
 # This will put z2_plus on node3 even if we mention msm8996 to be on different node.
 #
 
+^ daisy userdebug msm8953
 ! X01AD userdebug sdm632
