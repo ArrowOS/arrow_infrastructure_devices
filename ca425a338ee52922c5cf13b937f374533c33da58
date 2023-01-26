@@ -16,6 +16,23 @@
       "message": "Haha nice.",
       "revId": "ca425a338ee52922c5cf13b937f374533c33da58",
       "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "95a51d5f_b4fad53d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 508
+      },
+      "writtenOn": "2023-01-26T05:40:39Z",
+      "side": 1,
+      "message": "Wise choice.",
+      "revId": "ca425a338ee52922c5cf13b937f374533c33da58",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
     }
   ]
 }
