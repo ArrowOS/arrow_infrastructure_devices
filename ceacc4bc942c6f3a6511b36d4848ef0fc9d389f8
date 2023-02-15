@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e9ff78bd_4c167c07",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 643
+      },
+      "writtenOn": "2023-02-15T18:34:29Z",
+      "side": 1,
+      "message": "Needs this to build properly\nhttps://github.com/ArrowOS-Devices/android_hardware_oneplus/pull/1\n\nAnd this for alert slider toasts.\nhttps://review.arrowos.net/q/topic:op-bringup\n\nIdeally this is merged as well, but I ditched vr for the bringup.\nhttps://review.arrowos.net/c/ArrowOS/android_manifest/+/19739",
+      "revId": "ceacc4bc942c6f3a6511b36d4848ef0fc9d389f8",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
