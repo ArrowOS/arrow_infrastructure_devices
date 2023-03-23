@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b8120294_3c89fcd2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2023-03-23T08:03:25Z",
+      "side": 1,
+      "message": "arrow-13.0 is deprecated, pls move to 13.1",
+      "revId": "60fd9143869610cef799a3015d40fd64c11b0d5c",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
