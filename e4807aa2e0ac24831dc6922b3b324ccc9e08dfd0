@@ -16,6 +16,23 @@
       "message": "Hold on Gerrit.",
       "revId": "e4807aa2e0ac24831dc6922b3b324ccc9e08dfd0",
       "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ac78a42e_0dd45571",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2023-04-05T07:28:03Z",
+      "side": 1,
+      "message": "branch",
+      "revId": "e4807aa2e0ac24831dc6922b3b324ccc9e08dfd0",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
     }
   ]
 }
