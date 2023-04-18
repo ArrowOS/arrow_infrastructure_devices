@@ -16,6 +16,23 @@
       "message": "I no longer have above devices.",
       "revId": "d952d1a92abbad4b7e862c6b84b6e2cb99ece670",
       "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "df32eb5c_df7d32dc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 522
+      },
+      "writtenOn": "2023-04-18T02:21:11Z",
+      "side": 1,
+      "message": "Consider merging it after releasing last official build with april asb for RMP6768.",
+      "revId": "d952d1a92abbad4b7e862c6b84b6e2cb99ece670",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
     }
   ]
 }
