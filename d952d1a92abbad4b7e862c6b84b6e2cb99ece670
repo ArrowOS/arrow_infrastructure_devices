@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b2503267_e99307c9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 522
+      },
+      "writtenOn": "2023-04-18T02:20:17Z",
+      "side": 1,
+      "message": "I no longer have above devices.",
+      "revId": "d952d1a92abbad4b7e862c6b84b6e2cb99ece670",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
