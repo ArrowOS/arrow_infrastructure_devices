@@ -30,10 +30,7 @@
 #
 
 ! apollo userdebug sm8250
-! avicii userdebug sm8250
 ! beryllium userdebug sdm845
-! cas userdebug sm8250
-! davinci userdebug sm6150
 ! dubai userdebug sm8350
 ! elish userdebug sm8250
 ! G userdebug msm8953
@@ -44,15 +41,10 @@
 ! mojito userdebug sm6150
 ! munch userdebug sm8250
 ! nabu userdebug sm8150
-! RMP6768 userdebug mt6768
-! RMX1801 userdebug sdm660
 ! RMX2020 userdebug mt6768
-! RMX3031 userdebug mt6893
 ! RMX3360 userdebug sm8350
 ! sweet userdebug sm6150
 ! Spacewar userdebug sm8350
-! thyme userdebug sm8250
-! tucana userdebug sm6150
 ! vayu userdebug sm8150
 ! violet userdebug sm6150
 ! X00TD userdebug sdm660
