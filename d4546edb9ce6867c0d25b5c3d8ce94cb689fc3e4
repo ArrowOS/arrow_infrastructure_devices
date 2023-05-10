@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e591d49f_26e929cb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2023-05-10T09:26:38Z",
+      "side": 1,
+      "message": "wait till davinci is confirmed",
+      "revId": "d4546edb9ce6867c0d25b5c3d8ce94cb689fc3e4",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
