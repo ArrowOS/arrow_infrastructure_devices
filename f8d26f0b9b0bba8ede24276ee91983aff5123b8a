@@ -16,6 +16,24 @@
       "message": "I sold Realme x3.",
       "revId": "f8d26f0b9b0bba8ede24276ee91983aff5123b8a",
       "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b162834e_a6ad79ea",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 105
+      },
+      "writtenOn": "2023-07-12T06:47:06Z",
+      "side": 1,
+      "message": "Me too (last year itself)",
+      "parentUuid": "bd8064d9_22cc50f6",
+      "revId": "f8d26f0b9b0bba8ede24276ee91983aff5123b8a",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
     }
   ]
 }
